@@ -9,10 +9,12 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #4B9072;
+  background-color: #3257ce;
   padding-left: 1%;
   padding-right: 1%;
   color:rgb(7, 7, 7);
+  justify-content: center;
+  align-items: center;
 }
 
 .main {
@@ -79,7 +81,7 @@ h4 {
 
 .box_emissions{
   border-radius: 20px;
-  background-color: #e9a8538e;    
+  background-color: #478cf38e;    
   margin: 2px;
   box-shadow: 2px 2px 2px lightgrey;
   justify-content: center;
